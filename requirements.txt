@@ -1,0 +1,10 @@
+langchain_openai 
+langchain_core
+fastapi
+streamlit
+langchain_community
+langserve
+uvicorn
+sse_starlette
+
+
