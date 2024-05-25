@@ -2,7 +2,7 @@ from langchain.chat_models import ChatOpenAI # type: ignore
 from langchain.prompts import ChatPromptTemplate # type: ignore
 from langserve import add_routes # type: ignore
 import os
-from sec import open_ai_api_key
+from constants.sec import open_ai_api_key
 import uvicorn # type: ignore
 from langchain_community.llms import Ollama # type: ignore
 from fastapi import FastAPI # type: ignore
