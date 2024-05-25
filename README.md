@@ -9,4 +9,4 @@
 streamlit run Model1/client.py
 `
 
-
+2. Model2: RAG pipeline using LangChain, retriever Chain with ChromaDB and FAISS
