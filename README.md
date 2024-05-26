@@ -1,4 +1,5 @@
-# LLM_MultiModel
+# LLM_MultiModel 
+Different Advanced LLM model, agent, tools and its works
 
 
 # Model Creation
@@ -8,5 +9,7 @@
 `
 streamlit run Model1/client.py
 `
-
 2. Model2: RAG pipeline using LangChain, retriever Chain with ChromaDB and FAISS
+
+3. Model 3: Advance Multisearch Agent RAG and retriever tools
+
